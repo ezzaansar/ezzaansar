@@ -1,59 +1,47 @@
-<h1 align="center">Hi 👋, I'm Ezza Ansar</h1>
-<h3 align="center">Frontend Developer | Aspiring Full Stack Engineer</h3>
+# Hi 👋, I'm Ezza Ansar
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ezzaansar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+**Frontend Developer | Aspiring Full Stack Engineer | React & JavaScript Enthusiast**
+
+![Profile Views](https://komarev.com/ghpvc/?username=ezzaansar\&color=blue)
 
 ---
 
 ## 👩‍💻 About Me
-- 🌱 Currently learning **React** & **AngularJS**
-- 👯 Open to collaborating on **Full Stack Web Development Projects**
-- 🤝 Looking to grow in **Frontend Engineering** and **UI/UX**
-- 💬 Ask me about **HTML, CSS, JavaScript**, and modern frontend frameworks
-- 📧 Email: **[ezzaansar05@gmail.com](mailto:ezzaansar05@gmail.com)**
+
+* 🌱 Currently learning **React** & **AngularJS** to expand my frontend expertise
+* 👯 Open to collaborating on **Full Stack Web Development Projects**
+* 🤝 Focused on growing in **Frontend Engineering**, **UI/UX Design**, and scalable solutions
+* 💬 Ask me about **HTML, CSS, JavaScript, React, AngularJS**, and modern web frameworks
+* 📧 Reach me at **[ezzaansar05@gmail.com](mailto:ezzaansar05@gmail.com)**
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/ezza-ansar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/ezza_ansar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/ezzaansar" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
+
+[LinkedIn](#) | [Portfolio](#) | [Twitter](#)
 
 ---
 
 ## 🛠️ Skills & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind,sass,figma,mysql,cpp,cs" />
-</p>
+
+* **Frontend:** HTML, CSS, JavaScript, React, AngularJS, Tailwind CSS
+* **Backend (Learning):** Node.js, Express.js
+* **Other Tools:** Git, GitHub, VS Code, Postman
 
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezzaansar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzaansar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+
+![Ezza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezzaansar\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzaansar\&layout=compact\&theme=radical)
 
 ---
 
 ## 🎯 Current Goals
-- Develop **responsive & high-performance** web applications
-- Advance skills in **React** & **AngularJS**
-- Learn **backend development** for full-stack capabilities
 
----
+* 🚀 Build **responsive, SEO-optimized, and high-performance web applications**
+* 📚 Advance skills in **React, AngularJS, and modern JavaScript frameworks**
+* 🔗 Learn **backend development (Node.js, Express.js, MongoDB)** for full-stack capabilities
+* 💡 Always open to **collaboration, open-source contributions, and new learning opportunities**
 
-
-
-
-💡 *Always open to collaboration and learning opportunities. Let’s build something amazing together!*
+✨ Let’s build something amazing together!
