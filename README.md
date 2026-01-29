@@ -18,7 +18,7 @@
 
 ## 🌐 Connect With Me
 
-[LinkedIn](#) | [Portfolio](#) | [Twitter](#)
+[LinkedIn](https://www.linkedin.com/in/ezza-ansar/)
 
 ---
 
