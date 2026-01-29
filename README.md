@@ -8,11 +8,11 @@
 
 ## 👩‍💻 About Me
 
-* 🌱 Currently learning **React** & **AngularJS** to expand my frontend expertise
-* 👯 Open to collaborating on **Full Stack Web Development Projects**
-* 🤝 Focused on growing in **Frontend Engineering**, **UI/UX Design**, and scalable solutions
-* 💬 Ask me about **HTML, CSS, JavaScript, React, AngularJS**, and modern web frameworks
-* 📧 Reach me at **[ezzaansar05@gmail.com](mailto:ezzaansar05@gmail.com)**
+*  Currently learning **React** & **AngularJS** to expand my frontend expertise
+*  Open to collaborating on **Full Stack Web Development Projects**
+*  Focused on growing in **Frontend Engineering**, **UI/UX Design**, and scalable solutions
+*  Ask me about **HTML, CSS, JavaScript, React, AngularJS**, and modern web frameworks
+*  Reach me at **[ezzaansar05@gmail.com](mailto:ezzaansar05@gmail.com)**
 
 ---
 
@@ -39,9 +39,9 @@
 
 ## 🎯 Current Goals
 
-* 🚀 Build **responsive, SEO-optimized, and high-performance web applications**
-* 📚 Advance skills in **React, AngularJS, and modern JavaScript frameworks**
-* 🔗 Learn **backend development (Node.js, Express.js, MongoDB)** for full-stack capabilities
-* 💡 Always open to **collaboration, open-source contributions, and new learning opportunities**
+*  Build **responsive, SEO-optimized, and high-performance web applications**
+*  Advance skills in **React, AngularJS, and modern JavaScript frameworks**
+*  Learn **backend development (Node.js, Express.js, MongoDB)** for full-stack capabilities
+*  Always open to **collaboration, open-source contributions, and new learning opportunities**
 
 ✨ Let’s build something amazing together!
