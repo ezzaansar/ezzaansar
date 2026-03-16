@@ -1,47 +1,66 @@
-# Hi 👋, I'm Ezza Ansar
+# Hi, I'm Ezza Ansar
 
-**Frontend Developer | Aspiring Full Stack Engineer | React & JavaScript Enthusiast**
+**AI Engineer | Machine Learning | LLM Applications**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ezzaansar\&color=blue)
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-*  Currently learning **React** & **AngularJS** to expand my frontend expertise
-*  Open to collaborating on **Full Stack Web Development Projects**
-*  Focused on growing in **Frontend Engineering**, **UI/UX Design**, and scalable solutions
-*  Ask me about **HTML, CSS, JavaScript, React, AngularJS**, and modern web frameworks
-*  Reach me at **[ezzaansar05@gmail.com](mailto:ezzaansar05@gmail.com)**
+AI Engineer focused on building intelligent systems and AI-powered applications.
+Interested in machine learning, large language model (LLM) applications, and AI-driven automation.
 
----
+* Building AI projects using Python and modern AI development tools
+* Exploring LLM applications, AI agents, and intelligent automation
+* Open to collaboration on AI and machine learning projects
+* Continuously learning and experimenting with emerging AI technologies
 
-## 🌐 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/ezza-ansar/)
+Contact: [ezzaansar05@gmail.com](mailto:ezzaansar05@gmail.com)
 
 ---
 
-## 🛠️ Skills & Tools
+## Connect With Me
 
-* **Frontend:** HTML, CSS, JavaScript, React, AngularJS, Tailwind CSS
-* **Backend (Learning):** Node.js, Express.js
-* **Other Tools:** Git, GitHub, VS Code, Postman
+LinkedIn: https://www.linkedin.com/in/ezza-ansar/
 
 ---
 
-## 📊 GitHub Analytics
+## Skills & Tools
+
+**Programming**
+
+* Python
+* JavaScript
+
+**AI / Machine Learning**
+
+* Machine Learning
+* LLM Applications
+* AI Agents
+* Prompt Engineering
+
+**Tools & Platforms**
+
+* Claude Code
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
+
+---
+
+## GitHub Analytics
 
 ![Ezza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezzaansar\&show_icons=true\&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzaansar\&layout=compact\&theme=radical)
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
-*  Build **responsive, SEO-optimized, and high-performance web applications**
-*  Advance skills in **React, AngularJS, and modern JavaScript frameworks**
-*  Learn **backend development (Node.js, Express.js, MongoDB)** for full-stack capabilities
-*  Always open to **collaboration, open-source contributions, and new learning opportunities**
-
-✨ Let’s build something amazing together!
+* Build practical AI applications and automation systems
+* Develop LLM-based tools and AI agents
+* Contribute to open-source AI projects
+* Continue advancing in machine learning and AI engineering
